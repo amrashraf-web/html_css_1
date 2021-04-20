@@ -1,0 +1,94 @@
+/* div {
+    background-color: red;
+    background-color: rgb(0 0 0 / 50%);
+    background-color: #FF0000;
+    background-image: url("../img/amr.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-size: contain;
+    background-color: #DDD;
+    padding: 10px 20px;
+    margin: 0 auto;
+    border-width: 10px;
+    border-color: red;
+    border-style: solid;
+    border: 10px red solid;
+    border-radius: 20px;
+    outline: 10px green solid;
+    width: fit-content;
+    min-width , max-width,min-height,max-height
+    overflow: auto or scroll or visible;
+    overflow-x or -y: hidden
+    text-transform: capitalize;
+    text-shadow: 0 0 0 red
+    text-align: center;
+    direction: ltr; or rtl;
+    vertical-align: middle;
+    text-decoration: line-through;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    text-indent: 100px;
+    line-height: 1.6 or 160%;
+    white-space: nowrap;
+    word-break: break-all;
+    text-overflow: ellipsis;
+    <div title="Welcome To Elzero Web School, Hello">Welcome To Elzero Web School, Hello</div>
+    div:hover {
+    overflow: visible;}
+    border: inherit >> for father;
+    border-spacing;
+    padding: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size { em from body > rem from root (html) >> percentage from father >> vw 10% from width of page
+    font-style   > fokk
+    font-variant > fokk
+    font-weight: bold or normal;
+    cursor: move or pointer;
+    float: left;
+    <p class="clear"></p>
+    .clear {
+    clear: both;}
+    width or height: calc(88% /5) or calc((100% - 90px) / 5);
+    background-color: rgb(255 0 0 /.1); شفافية
+    opacity: .1;
+    position: relative or absolute;
+    top: 200px;
+    z-index : 3; لازم position
+    list-style
+    lesson 33 for table >> important
+    :focus or  visited or checked or 
+    ::first-letter or ::first-line or ::selection
+    box-shadow : 0 0 0 0 #eee inset
+    * { box-sizing: border-box; }
+    transition: all 2s linear .5s ;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    orflex-flow: row wrap;
+    justify-content: flex-end;
+    justify-content: center or space-between or around or evely;
+    align-items: center بالطول;
+    align-content: center كلها;
+    flex-grow:0;
+    flex-shrink: 1;
+    order:;
+    flex-basis:auto;
+    flex: [flex grow   flex shrink  flex basis];
+    or01autoor200pxor20%align-self: flex-end;
+    pointer-events:none;
+    grid-template-columns(wight): auto repeat() 10px 1fr 10%;
+    grid-template-rows(heigt): ;
+    column-gap: 10px;
+    row-gap: 10px;
+    orgap:;
+    10pxforrowand10pxforcolumngrid-area: 2 / 5 / 5 /6;
+    grid-template-areas: "";
+    transform: Scale X or Y  rotate(10deg) or skew(10deg);
+    translate:(100px,50px);
+    matrix: (1,0,0,1,1,1);
+    perspective: 300px;
+    transition: transform 1s;
+    transform-style: preserve-3d;
+    transform-origin: right top;
+} */
